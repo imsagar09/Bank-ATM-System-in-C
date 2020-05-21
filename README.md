@@ -1,1 +1,1 @@
-# Bank-ATM-System-in-C
+# Bank ATM System in C
